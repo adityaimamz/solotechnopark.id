@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "diklat",
+    "kategori": "Diklat"
+  },
+  {
+    "slug": "bisnis",
+    "kategori": "bisnis"
+  },
+  {
+    "slug": "pendidikan",
+    "kategori": "pendidikan"
+  },
+  {
+    "slug": "pelatihan",
+    "kategori": "pelatihan"
+  },
+  {
+    "slug": "kerjasama",
+    "kategori": "kerjasama"
+  },
+  {
+    "slug": "webinar",
+    "kategori": "webinar"
+  }
+]
